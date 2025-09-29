@@ -20,7 +20,8 @@ how it works:
 7. once the new item is said, the focus will now change to said item
 8. press 'q' to quit the program
 
-
+Video:
+https://youtu.be/dpH0mJGEwhU
 
 
 
